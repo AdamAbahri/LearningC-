@@ -1,0 +1,16 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.cache
+*.vs.sln
+*.pdb
+*.exe
+*.dll
+x64/
+x86/
+Debug/
+Release/
