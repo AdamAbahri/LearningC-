@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD5035-4C54-4BB0-8277-A395004A69B8}|EF2\\EF2.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\ef2\\ef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD5035-4C54-4BB0-8277-A395004A69B8}|EF2\\EF2.csproj|solutionrelative:ef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD5035-4C54-4BB0-8277-A395004A69B8}|EF2\\EF2.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\ef2\\ef2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD5035-4C54-4BB0-8277-A395004A69B8}|EF2\\EF2.csproj|solutionrelative:ef2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD5035-4C54-4BB0-8277-A395004A69B8}|EF2\\EF2.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\ef2\\ef2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD5035-4C54-4BB0-8277-A395004A69B8}|EF2\\EF2.csproj|solutionrelative:ef2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./EF2/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\Migrations\\20260505112504_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF2\\Migrations\\20260505112504_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260505112504_test.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\Migrations\\20260505112504_test.cs",
+              "RelativeDocumentMoniker": "EF2\\Migrations\\20260505112504_test.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\Migrations\\20260505112504_test.cs",
+              "RelativeToolTip": "EF2\\Migrations\\20260505112504_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:25:04.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./EF2/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-05T11:09:44.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\User.cs",
+              "RelativeDocumentMoniker": "EF2\\User.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\User.cs",
+              "RelativeToolTip": "EF2\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:20:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EF2\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EF2\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:14:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\Program.cs",
+              "RelativeDocumentMoniker": "EF2\\Program.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\EF2\\EF2\\Program.cs*",
+              "RelativeToolTip": "EF2\\Program.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwM8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:28:47.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
