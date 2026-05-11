@@ -1,0 +1,29 @@
+﻿@model User
+<h1>Create User</h1>
+
+<form method="post" action="/Users/Store"> 
+
+    <div>
+        <div>
+            <label>Name</label>
+            <input type="text" name="Name" class="form-control"/>
+        </div>
+
+        <div>
+            <label>Email</label>
+            <input type="email" name="Email" class="form-control"/>
+        </div>
+
+        <div>
+            <label>Age</label>
+            <input type="number" name="Age" class="form-control"/>
+        </div>
+
+        <div> 
+            <label>Score</label>
+            <input type="number" name="Score" class="form-control"/>
+        </div>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Add</button>
+</form>

@@ -1,0 +1,9 @@
+﻿<h1> Filtered Users View Page</h1>
+<p> This page displays a list of users that have been filtered based on specific criteria. The filtering criteria can be based on various attributes such as age, location, or any other relevant user information. </p>
+<p> Here we can see the filterd users came from the UsersController's Filterd action as a list of strings, and these are the values printed using foreach :</p>
+<ul>
+    @foreach (var user in Model)
+    {
+        <li>@user</li>
+    }
+</ul>
