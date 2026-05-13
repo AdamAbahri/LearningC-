@@ -13,16 +13,21 @@ namespace WebApplication1.Controllers
             var users = context.Users.ToList();
             return View("Index", users);
         }
-
+        
         public ViewResult Create()
         {
             return View("Create");
         }
-        public ViewResult Store(User request)
+        
+        public IActionResult Store(User request)
         {
+            if (request == null || !ModelState.IsValid)
+            {
+                return RedirectToAction("Create");
+            }
             context.Users.Add(request);
             context.SaveChanges();
-            return View("Create");
+            return Content("User created successfully");
         }
         public string All()
         {

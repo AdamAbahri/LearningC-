@@ -227,3 +227,4 @@ C:\Users\messi\Desktop\Main\Projects\Learning\ASP\WebApplication1\WebApplication
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\WebApplication1\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+C:\Users\messi\Desktop\Main\Projects\Learning\ASP\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json
