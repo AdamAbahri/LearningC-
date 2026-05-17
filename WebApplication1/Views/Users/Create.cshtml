@@ -1,27 +1,34 @@
 ﻿@model User
-<h1>Create User</h1>
+<div class="d-flex justify-content-between align-items-center">
+    <h1>Create User</h1>
+    <a href="/Users/Index" class="btn btn-secondary">Back</a>
+</div>
 
 <form method="post" action="/Users/Store"> 
 
     <div>
         <div>
             <label>Name</label>
-            <input type="text" name="Name" class="form-control"/>
+            <input type="text" name="Name" value="@Model?.Name" class="form-control"/>
+            <span asp-validation-for="Name" class="text-danger"></span>
         </div>
 
         <div>
             <label>Email</label>
-            <input type="email" name="Email" class="form-control"/>
+            <input type="email" name="Email" value="@Model?.Email" class="form-control"/>
+            <span asp-validation-for="Email" class="text-danger"></span>
         </div>
 
         <div>
             <label>Age</label>
-            <input type="number" name="Age" class="form-control"/>
+            <input type="number" name="Age" value="@(Model?.Age == 0 ? "" : Model?.Age.ToString())" class="form-control"/>
+            <span asp-validation-for="Age" class="text-danger"></span>
         </div>
 
         <div> 
             <label>Score</label>
-            <input type="number" name="Score" class="form-control"/>
+            <input type="number" name="Score" value="@(Model?.Score == 0 ? "" : Model?.Score.ToString())" class="form-control"/>
+            <span asp-validation-for="Score" class="text-danger"></span>
         </div>
 
     </div>

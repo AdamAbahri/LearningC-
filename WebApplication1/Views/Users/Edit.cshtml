@@ -1,0 +1,33 @@
+﻿@model User
+<div class="d-flex justify-content-between align-items-center">
+    <h1>Edit User</h1>
+    <a href="/Users/Index" class="btn btn-secondary">Back</a>
+</div>
+
+<form method="post" action="/Users/Update">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <div>
+        <div>
+            <label>Name</label>
+            <input type="text" name="Name" value="@Model.Name" class="form-control" />
+        </div>
+
+        <div>
+            <label>Email</label>
+            <input type="email" name="Email" value="@Model.Email" class="form-control" />
+        </div>
+
+        <div>
+            <label>Age</label>
+            <input type="number" name="Age" value="@Model.Age" class="form-control" />
+        </div>
+
+        <div>
+            <label>Score</label>
+            <input type="number" name="Score" value="@Model.Score" class="form-control" />
+        </div>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Add</button>
+</form>

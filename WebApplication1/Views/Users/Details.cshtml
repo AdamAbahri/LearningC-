@@ -1,0 +1,16 @@
+﻿@model User
+
+<div class="d-flex justify-content-between align-items-center">
+    <h1>User Details</h1>
+
+    <a href="/Users/Index" class="btn btn-secondary">Back</a>
+</div>
+<p>
+    <ul>
+        <li>ID: @Model.Id</li>
+        <li>Name: @Model.Name</li>
+        <li>Email: @Model.Email</li>
+        <li>Age: @Model.Age</li>
+        <li>Score: @Model.Score</li>
+    </ul>
+</p>

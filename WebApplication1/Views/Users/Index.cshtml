@@ -2,6 +2,8 @@
 <h1> Users View Page</h1>
 <h2> Users from database </h2>
 
+<a href="/Users/Create" class="btn btn-success mb-3">Create New User</a>
+
 @if (!Model.Any()) // Check if the Model (list of users) is empty using the Any() method
 {
     <p> No users found in the database. </p>
@@ -12,14 +14,11 @@ else
         @foreach (var user in Model)
         {
             <li>
-                <strong>Id: @user.Id</strong>
-
-                <ul>
-                    <li>Name: @user.Name</li>
-                    <li>Email: @user.Email</li>
-                    <li>Age: @user.Age</li>
-                    <li>Score: @user.Score</li>
-                </ul>
+                <strong>@user.Id : @user.Name</strong>
+                <br />
+                <a href="/Users/Details/@user.Id" class="btn btn-primary">Details</a>
+                <a href="/Users/Edit/@user.Id" class="btn btn-warning">Edit</a>
+                <a href="/Users/Delete/@user.Id" class="btn btn-danger">Delete</a>
             </li>
         }
     </ul>
