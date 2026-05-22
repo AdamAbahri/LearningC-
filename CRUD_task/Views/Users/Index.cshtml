@@ -1,0 +1,29 @@
+﻿@model List<User>
+
+
+@section MainHeading{
+    Users View Page
+}
+<h2> Users from database are : </h2>
+
+<a href="/Users/Create" class="btn btn-success mb-3">Create New User</a>
+
+@if (!Model.Any()) // Check if the Model (list of users) is empty using the Any() method
+{
+    <p> No users found in the database. </p>
+}
+else
+{
+    <ul>
+        @foreach (var user in Model)
+        {
+            <li>
+                <strong>@user.Id : @user.Name</strong>
+                <br />
+                <a href="/Users/Details/@user.Id" class="btn btn-primary">Details</a>
+                <a href="/Users/Edit/@user.Id" class="btn btn-warning">Edit</a>
+                <a href="/Users/Delete/@user.Id" class="btn btn-danger">Delete</a>
+            </li>
+        }
+    </ul>
+}

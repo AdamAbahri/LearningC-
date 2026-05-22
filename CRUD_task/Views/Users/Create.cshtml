@@ -1,0 +1,32 @@
+﻿@model User
+@section MainHeading{
+    Create User
+}
+<div class="d-flex justify-content-between align-items-center">
+    <a href="/Users/Index" class="btn btn-secondary">Back</a>
+</div>
+
+<form method="post" asp-controller="Users" asp-action="Store">
+
+    <div>
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="Age"></label>
+            <input asp-for="Age" class="form-control" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="City"></label>
+            <input asp-for="City" class="form-control" />
+            <span asp-validation-for="City" class="text-danger"></span>
+        </div>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Add</button>
+</form>
