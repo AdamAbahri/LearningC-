@@ -1,4 +1,5 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Diagnostics.CodeAnalysis;
 
 namespace MVC_PROJECT.Models
 {
@@ -8,6 +9,7 @@ namespace MVC_PROJECT.Models
         public string Name { get; set; }
         public decimal Price { get; set; }
         public string Description { get; set; }
+        [Range(0, 5)]
         public double Rating { get; set; }
         public int Quantity { get; set; }
         public string? ImageUrl { get; set; } // ? means that the ImageUrl property is nullable, which means it can hold a null value. This is useful for cases where a product might not have an associated image, allowing the application to handle such scenarios gracefully without throwing exceptions.
