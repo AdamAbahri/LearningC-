@@ -1,11 +1,13 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using MVC_PROJECT.Data;
 using MVC_PROJECT.Models;
 
 namespace MVC_PROJECT.Controllers
 {
     public class HomeController : Controller
     {
+        ApplicationDbContext context = new ApplicationDbContext();
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -15,6 +17,8 @@ namespace MVC_PROJECT.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Categories = context.Categories.ToList(); 
+            ViewBag.Products = context.Products.ToList();
             return View();
         }
 

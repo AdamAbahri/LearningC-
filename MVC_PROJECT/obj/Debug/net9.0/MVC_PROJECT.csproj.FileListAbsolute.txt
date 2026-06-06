@@ -154,7 +154,6 @@ C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\De
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\scopedcss\bundle\MVC_PROJECT.styles.css
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\scopedcss\projectbundle\MVC_PROJECT.bundle.scp.css
-C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\compressed\zsbi43sbp7-me7l9w20jr.gz
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\compressed\p4xmr5eo7j-bqjiyaj88i.gz
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\compressed\vngfi5lhrx-c2jlpeoesf.gz
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\compressed\fthjfw9tzr-erw9l3u2r3.gz
@@ -229,3 +228,5 @@ C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\De
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\ref\MVC_PROJECT.dll
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\compressed\3kwf4h5516-svgx6af8bh.gz
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\compressed\2dc83dhqo8-devepoo3hg.gz
+C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\MVC_PROJECT.sourcelink.json
+C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\obj\Debug\net9.0\compressed\zsbi43sbp7-k5onlv7sx1.gz
