@@ -1,3 +1,12 @@
+wwwroot\Admin\assets\imgs\AdminLTELogo.png
+wwwroot\Admin\assets\imgs\user1-128x128.jpg
+wwwroot\Admin\assets\imgs\user2-160x160.jpg
+wwwroot\Admin\assets\imgs\user3-128x128.jpg
+wwwroot\Admin\assets\imgs\user8-128x128.jpg
+wwwroot\Admin\css\adminlte.min.css
+wwwroot\Admin\css\adminlte.min.css.map
+wwwroot\Admin\js\adminlte.min.js
+wwwroot\Admin\js\adminlte.min.js.map
 wwwroot\css\styles.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -123,3 +132,7 @@ C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroo
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\Admin\css\adminlte.min.css.map
+C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\Admin\css\adminlte.min.css
+C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\Admin\js\adminlte.min.js
+C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\Admin\js\adminlte.min.js.map
