@@ -1,0 +1,37 @@
+﻿@section PageTitle
+{
+   Categories
+}
+@model List<Category>
+<div class="card mb-4">
+    <div class="card-header">
+        <h3 class="card-title">All Categories</h3>
+    </div>
+
+    <div class="card-body p-0">
+        <table class="table table-striped" role="table">
+            <thead>
+                <tr>
+                    <th style="width: 10px" scope="col">#</th>
+                    <th scope="col">Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var category in Model)
+                {
+                    <tr class="align-middle">
+                        <td>@category.Id</td>
+                        <td>@category.Name</td>
+                        <td>
+                            <a asp-controller="categories" asp-action="Delete" asp-route-id="@category.Id" class="btn btn-outline-danger">Delete</a>
+                            <a asp-controller="categories" asp-action="Edit" asp-route-id="@category.Id" class="btn btn-outline-primary">Edit</a>
+                        </td>
+
+                    </tr>
+                }
+
+</table>
+    </div>
+
+</div>

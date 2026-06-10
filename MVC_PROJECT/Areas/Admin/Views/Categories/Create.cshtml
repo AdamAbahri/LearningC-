@@ -1,0 +1,28 @@
+﻿@section PageTitle
+{
+    Create New Category
+}
+
+@model Category
+
+<div class="col-md-12">
+    <div class="card card-primary card-outline mb-4">
+        <div class="card-header">
+            <div class="card-title">Add New Category</div>
+        </div>
+        <form asp-controller="Categories" asp-action="Store" method="post">
+            <div class="card-body">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control">
+                    <div id="emailHelp" class="form-text">
+                        The new category will be added to the list of categories and can be used when creating or editing products.
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary">Create</button>
+            </div>
+        </form>
+    </div>
+</div>
