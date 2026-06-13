@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MVC_PROJECT.Data;
 using MVC_PROJECT.Models;
+using MVC_PROJECT.ViewModels.CategoriesViewModels;
 
 namespace MVC_PROJECT.Areas.Admin.Controllers
 {
@@ -10,22 +12,32 @@ namespace MVC_PROJECT.Areas.Admin.Controllers
         ApplicationDbContext context = new ApplicationDbContext();
         public IActionResult Index()
         {
-            var categories = context.Categories.ToList();
-            return View(categories);
+            var categoriesViewModel = context.Categories.AsNoTracking()
+                .Select(c => new CategoriesViewModel {
+                    Id = c.Id,
+                    Name = c.Name
+                })
+                .ToList();
+
+            return View(categoriesViewModel);
         }
         public IActionResult Create()
         {
             return View();
         }
-        public IActionResult Store(Category request)
+        public IActionResult Store(CreateCategoriesViewModel request)
         {
-            context.Categories.Add(request);
+            var category = new Category
+            {
+                Name = request.Name
+            };
+            context.Categories.Add(category);
             context.SaveChanges();
             return RedirectToAction("Index");
         }
         public IActionResult Delete(int id)
         {
-            var category = context.Categories.Find(id);
+            var category = context.Categories.AsNoTracking().FirstOrDefault(c => c.Id == id);
             if (category != null)
             {
                 context.Categories.Remove(category);
@@ -36,14 +48,22 @@ namespace MVC_PROJECT.Areas.Admin.Controllers
         public IActionResult Edit(int id)
         {
             var category = context.Categories.Find(id);
-            return View(category);
+            var categoryViewModel = new EditCategoriesViewModel
+            {
+                Id = category.Id,
+                Name = category.Name
+            };
+            return View(categoryViewModel);
         }
-        public IActionResult Update(Category request,int id)
+        public IActionResult Update(EditCategoriesViewModel request,int id)
         {
-            request.Id = id;
-           
-            context.Categories.Update(request);
-            context.SaveChanges();
+            var category = context.Categories.Find(id);
+            if (category != null)
+            {
+                category.Name = request.Name;
+                context.Categories.Update(category);
+                context.SaveChanges();
+            }
             return RedirectToAction("Index");
         }
     }

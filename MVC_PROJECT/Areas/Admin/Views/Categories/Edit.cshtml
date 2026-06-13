@@ -1,11 +1,13 @@
-﻿@model Category
+﻿@using MVC_PROJECT.ViewModels
+@using MVC_PROJECT.ViewModels.CategoriesViewModels
+@model EditCategoriesViewModel
 <div class="col-md-12">
     <div class="card card-primary card-outline mb-4">
         <div class="card-header">
             <div class="card-title">Edit Category</div>
         </div>
         <form asp-controller="Categories" asp-action="Update" method="post">
-            <input type="hidden" asp-for="Id" class="form-control" aria-describedby="emailHelp" />
+            <input type="hidden" asp-for="Id" />
             <div class="card-body">
                 <div class="mb-3">
                     <label asp-for="Name" class="form-label"></label>

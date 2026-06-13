@@ -1,15 +1,16 @@
-﻿@section PageTitle{
+﻿@using MVC_PROJECT.ViewModels
+@using MVC_PROJECT.ViewModels.ProductsViewModels
+@section PageTitle{
     Create Product
 }
 
-@model Product
+@model CreateProductsViewModel
 <div class="col-md-12">
     <div class="card card-primary card-outline mb-4">
         <div class="card-header">
             <div class="card-title">Create Product</div>
         </div>
         <form asp-controller="Products" asp-action="Store" method="post">
-            <input type="hidden" asp-for="Id" class="form-control" aria-describedby="emailHelp" />
             <div class="card-body">
                 <div class="mb-3">
                     <label asp-for="Name" class="form-label"></label>
@@ -35,6 +36,10 @@
                             <option value="@item.Id">@item.Name</option>
                         }
                     </select>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="ImageUrl" class="form-label"></label>
+                    <input asp-for="ImageUrl" class="form-control" />
                 </div>
             </div>
             <div class="card-footer">

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,52 +15,36 @@
       "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\viewmodels\\productsviewmodels\\editproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\viewmodels\\productsviewmodels\\editproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\mvc_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\mvc_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\viewmodels\\categoriesviewmodels\\createcategoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\viewmodels\\categoriesviewmodels\\createcategoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|solutionrelative:mvc_project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89082A12-6A5D-4FA4-B930-B13953D67E85}|MVC_PROJECT\\MVC_PROJECT.csproj|c:\\users\\messi\\desktop\\main\\projects\\learning\\asp\\mvc_project\\mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,188 +70,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T12:48:28.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAG4BAAAAAAAAAAAAAEIBAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-08T01:51:21.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwCkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CreateCategoriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\ViewModels\\CategoriesViewModels\\CreateCategoriesViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\ViewModels\\CategoriesViewModels\\CreateCategoriesViewModel.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\ViewModels\\CategoriesViewModels\\CreateCategoriesViewModel.cs*",
+              "RelativeToolTip": "MVC_PROJECT\\ViewModels\\CategoriesViewModels\\CreateCategoriesViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T01:38:27.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml*",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-09T02:18:44.694Z",
+              "WhenOpened": "2026-06-13T02:51:56.141Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-09T01:40:05.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAACRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-08T02:57:23.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Models\\Product.cs",
-              "RelativeToolTip": "MVC_PROJECT\\Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T11:47:18.427Z",
+              "WhenOpened": "2026-06-13T03:20:26.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T02:53:49.918Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T03:17:23.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-09T02:09:24.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-09T02:09:39.34Z"
+              "WhenOpened": "2026-06-13T03:13:32.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MVC_PROJECT.csproj",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\MVC_PROJECT.csproj",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\MVC_PROJECT.csproj",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\MVC_PROJECT.csproj",
-              "RelativeToolTip": "MVC_PROJECT\\MVC_PROJECT.csproj",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-08T01:58:50.885Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T03:13:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T03:13:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\ViewModels\\ProductsViewModels\\EditProductsViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\ViewModels\\ProductsViewModels\\EditProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\ViewModels\\ProductsViewModels\\EditProductsViewModel.cs",
+              "RelativeToolTip": "MVC_PROJECT\\ViewModels\\ProductsViewModels\\EditProductsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:11:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T02:57:23.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:14:12.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-06T13:53:53.556Z"
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC_PROJECT\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Models\\Category.cs",
+              "RelativeToolTip": "MVC_PROJECT\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T02:44:29.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T13:53:42.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\User\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC_PROJECT\\Areas\\User\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Areas\\User\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC_PROJECT\\Areas\\User\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T13:48:53.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MVC_PROJECT\\Data\\ApplicationDbContext.cs",
@@ -275,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "MVC_PROJECT\\wwwroot\\js\\site.js",
@@ -287,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\Program.cs",
               "RelativeDocumentMoniker": "MVC_PROJECT\\Program.cs",
@@ -299,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\messi\\Desktop\\Main\\Projects\\Learning\\ASP\\MVC_PROJECT\\MVC_PROJECT\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "MVC_PROJECT\\wwwroot\\css\\styles.css",
