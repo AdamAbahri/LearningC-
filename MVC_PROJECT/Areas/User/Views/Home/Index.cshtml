@@ -1,4 +1,5 @@
-﻿@model List<Category>
+﻿@using MVC_PROJECT.Models
+@model List<Category>
 
 <header class="bg-dark py-5">
     <div class="container px-4 px-lg-5 my-5">
@@ -11,16 +12,13 @@
 
 <section class="py-5">
     <div class="container px-4 px-lg-5 mt-5">
-
         <!-- Categories Row -->
         <div class="d-flex justify-content-center flex-wrap gap-3 mb-5">
             @foreach (var category in ViewBag.Categories)
             {
                 <div class="col-auto">
                     <div class="card">
-                        <a href="#" class="btn btn-outline-dark">
-                            @category.Name
-                        </a>
+                        <a href="#" class="btn btn-outline-dark">@category.Name</a>
                     </div>
                 </div>
             }
@@ -28,18 +26,64 @@
 
         <!-- Products Row -->
         <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
-            @foreach (var product in ViewBag.Products)
+            @foreach (var product in (List<Product>)ViewBag.Products)
             {
+                var images = product.Images.ToList();
+                var productId = product.Id;
+                var hasMultiple = images.Count > 1;
+
                 <div class="col mb-5">
                     <div class="card h-100">
 
-                        <img class="card-img-top" src="@product.ImageUrl" alt="@product.Name">
+                        <!-- Image Slider -->
+                        <div class="position-relative">
+                            @if (hasMultiple)
+                            {
+                                <!-- Previous Button -->
+                                <button onclick="changeImage(@productId, -1)"
+                                        class="btn btn-dark btn-sm position-absolute start-0 top-50 translate-middle-y z-1"
+                                        style="opacity:0.7;">
+                                    &#8249;
+                                </button>
+                            }
+
+                            <img id="img-@productId"
+                                 class="card-img-top"
+                                 src="@(images.Count > 0 ? images[0].ImageUrl : "/images/no-image.png")"
+                                 alt="@product.Name"
+                                 style="height: 200px; object-fit: cover;">
+
+                            @if (hasMultiple)
+                            {
+                                <!-- Next Button -->
+                                <button onclick="changeImage(@productId, 1)"
+                                        class="btn btn-dark btn-sm position-absolute end-0 top-50 translate-middle-y z-1"
+                                        style="opacity:0.7;">
+                                    &#8250;
+                                </button>
+
+                                <!-- Dot Indicators -->
+                                <div class="position-absolute bottom-0 w-100 d-flex justify-content-center gap-1 pb-1">
+                                    @for (int i = 0; i < images.Count; i++)
+                                    {
+                                        <span id="dot-@(productId)-@i"
+                                              class="rounded-circle bg-@(i == 0 ? "dark" : "secondary")"
+                                              style="width:8px; height:8px; display:inline-block;"></span>
+                                    }
+                                </div>
+                            }
+                        </div>
+
+                        <!-- Store image URLs in hidden data -->
+                        <div id="images-@productId" style="display:none;"
+                             data-images="@string.Join(",", images.Select(i => i.ImageUrl))"
+                             data-count="@images.Count"
+                             data-current="0">
+                        </div>
 
                         <div class="card-body p-4">
                             <div class="text-center">
-
                                 <h5 class="fw-bolder">@product.Name</h5>
-
                                 <div class="d-flex justify-content-center small text-warning mb-2">
                                     @for (int i = 0; i < 5; i++)
                                     {
@@ -53,32 +97,42 @@
                                         }
                                     }
                                 </div>
-
                                 <div>$@product.Price</div>
-
-                                <div>
-                                    Quantity: @product.Quantity
-                                </div>
-
-                                <div>
-                                    Category: @product.Category.Name
-                                </div>
-
+                                <div>Quantity: @product.Quantity</div>
+                                <div>Category: @product.Category.Name</div>
                             </div>
                         </div>
 
                         <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                             <div class="text-center">
-                                <a class="btn btn-outline-dark mt-auto" href="#">
-                                    Add to cart
-                                </a>
+                                <a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a>
                             </div>
                         </div>
-
                     </div>
                 </div>
             }
         </div>
-
     </div>
 </section>
+
+<script>
+    function changeImage(productId, direction) {
+        const container = document.getElementById('images-' + productId);
+        const images = container.dataset.images.split(',');
+        const count = parseInt(container.dataset.count);
+        let current = parseInt(container.dataset.current);
+
+        current = (current + direction + count) % count;
+        container.dataset.current = current;
+
+        document.getElementById('img-' + productId).src = images[current];
+
+        for (let i = 0; i < count; i++) {
+            const dot = document.getElementById('dot-' + productId + '-' + i);
+            if (dot) {
+                dot.className = 'rounded-circle bg-' + (i === current ? 'dark' : 'secondary');
+                dot.style.cssText = 'width:8px; height:8px; display:inline-block;';
+            }
+        }
+    }
+</script>

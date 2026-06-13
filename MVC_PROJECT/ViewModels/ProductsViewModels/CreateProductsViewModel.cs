@@ -10,8 +10,9 @@ namespace MVC_PROJECT.ViewModels.ProductsViewModels
         public string Description { get; set; }
         [Range(0, 5)]
         public int Quantity { get; set; }
-        public string? ImageUrl { get; set; } 
-        public int CategoryId { get; set; } 
+        public int CategoryId { get; set; }
+        public List<IFormFile>? Images { get; set; }
+
     }
 
 }

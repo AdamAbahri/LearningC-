@@ -70,6 +70,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\Uploads\c732fed5-7776-4fc1-8ff3-d49701c7aaae.webp
+wwwroot\Uploads\f94aa772-d0d9-4010-bc33-4f02a9e53e9d.webp
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\css\styles.css
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\favicon.ico
 C:\Users\messi\Desktop\Main\Projects\Learning\ASP\MVC_PROJECT\MVC_PROJECT\wwwroot\js\site.js

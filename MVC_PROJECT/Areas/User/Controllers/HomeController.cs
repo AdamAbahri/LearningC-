@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MVC_PROJECT.Data;
 using MVC_PROJECT.Models;
 
@@ -20,7 +21,7 @@ namespace MVC_PROJECT.User.Controllers
         public IActionResult Index()
         {
             ViewBag.Categories = context.Categories.ToList(); 
-            ViewBag.Products = context.Products.ToList();
+            ViewBag.Products = context.Products.Include(p => p.Category).Include(p => p.Images).ToList();
             return View();
         }
 

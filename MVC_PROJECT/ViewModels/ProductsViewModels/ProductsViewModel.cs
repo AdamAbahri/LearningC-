@@ -12,8 +12,9 @@ namespace MVC_PROJECT.ViewModels.ProductsViewModels
         [Range(0, 5)]
         public double Rating { get; set; }
         public int Quantity { get; set; }
-        public string? ImageUrl { get; set; } 
-        public string CategoryName { get; set; } 
+        public string CategoryName { get; set; }
+        public List<string> Images { get; set; } = new();
+
     }
 
 }

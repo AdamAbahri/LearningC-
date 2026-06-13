@@ -10,7 +10,7 @@
         <div class="card-header">
             <div class="card-title">Create Product</div>
         </div>
-        <form asp-controller="Products" asp-action="Store" method="post">
+        <form asp-controller="Products" asp-action="Store" method="post" enctype="multipart/form-data">
             <div class="card-body">
                 <div class="mb-3">
                     <label asp-for="Name" class="form-label"></label>
@@ -38,8 +38,11 @@
                     </select>
                 </div>
                 <div class="mb-3">
-                    <label asp-for="ImageUrl" class="form-label"></label>
-                    <input asp-for="ImageUrl" class="form-control" />
+                    <label asp-for="Images" class="form-label"></label>
+                    <input type="file"
+                           name="Images"
+                           multiple
+                           class="form-control" />
                 </div>
             </div>
             <div class="card-footer">
